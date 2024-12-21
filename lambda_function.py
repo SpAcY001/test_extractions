@@ -132,7 +132,7 @@ def main(status, bucket, files, temp, client, s3):
                             outfile.write(line + "\n")
                         outfile.close()
 
-                # s3 = boto3.client("s3",aws_access_key_id="AKIARU3MIISFVHPQBHLV",aws_secret_access_key="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")
+                # s3 = boto3.client("s3",aws_access_key_id="",aws_secret_access_key="")
                 s3.upload_file(
                     Filename=f"{temp}/{file2}.txt", Bucket=s3_bucket_name, Key=f"bg/{file2}.txt"
                 )
