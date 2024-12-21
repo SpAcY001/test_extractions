@@ -1,0 +1,12 @@
+[
+  "test_main.py::test_cleanup_local_file",
+  "test_main.py::test_get_job_results",
+  "test_main.py::test_is_job_complete",
+  "test_main.py::test_is_pdf_openable",
+  "test_main.py::test_is_pdf_openable_exception",
+  "test_main.py::test_is_pdf_openable_invalid_pdf",
+  "test_main.py::test_is_pdf_openable_successful",
+  "test_main.py::test_main_with_invalid_status_code",
+  "test_main.py::test_main_with_valid_status_code",
+  "test_main.py::test_start_job"
+]

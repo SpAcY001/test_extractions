@@ -1,0 +1,5 @@
+{
+  "test_main.py::test_main_with_invalid_status_code": true,
+  "test_main.py::test_is_pdf_openable_successful": true,
+  "test_main.py::test_is_pdf_openable_exception": true
+}
